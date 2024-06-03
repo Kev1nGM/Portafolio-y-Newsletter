@@ -22,7 +22,7 @@ Bienvenido a mi portafolio personal. Este proyecto muestra algunos de los trabaj
 6. **Pokedex**: Aplicación para buscar y mostrar información sobre Pokémon.
 
 ## Estructura del Proyecto
-
+```
 /mi-portafolio 
   ├── index.html 
   ├── css/ │ ├── styles.css 
@@ -34,7 +34,7 @@ Bienvenido a mi portafolio personal. Este proyecto muestra algunos de los trabaj
   ├── images/ │ ├── logo.png ... 
   
  /README.md
-
+```
 
  ## Cómo Ejecutar el Proyecto
 
