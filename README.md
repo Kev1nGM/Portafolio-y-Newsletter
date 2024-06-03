@@ -47,5 +47,5 @@ Bienvenido a mi portafolio personal. Este proyecto muestra algunos de los trabaj
    cd Portafolio-y-Newsletter
    ```
 
-© 2024 Kevin. Todos los derechos reservados. """
+```© 2024 Kevin. Todos los derechos reservados. ```
  
