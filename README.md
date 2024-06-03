@@ -4,18 +4,13 @@ Bienvenido a mi portafolio personal. Este proyecto muestra algunos de los trabaj
 
 ## Características
 
-- **Animaciones de Hover**: Efectos de aumento al pasar el ratón sobre los elementos del portafolio.
-- **Datos Dinámicos**: Los proyectos se cargan dinámicamente desde un archivo JSON.
-- **Diseño Responsivo**: Adaptado para verse bien en dispositivos móviles y de escritorio.
+- **Animaciones de Hover**: Efectos de aumento al pasar el ratón sobre los elementos del portafolio
 - **Interfaz de Usuario**: Diseño intuitivo y moderno con un esquema de colores oscuros y acentos en rojo.
 
 ## Tecnologías Utilizadas
 
 - **HTML5**: Estructura del contenido web.
 - **CSS3**: Estilización y diseño de la interfaz.
-- **JavaScript**: Interactividad y funcionalidad dinámica.
-- **JSON**: Fuente de datos para los proyectos.
-- **PHP y MySQL**: Backend y base de datos para el proyecto ReviewHub.
 
 ## Proyectos Incluidos
 
@@ -49,8 +44,8 @@ Bienvenido a mi portafolio personal. Este proyecto muestra algunos de los trabaj
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   git clone https://github.com/tu-usuario/mi-portafolio.git
-  ```
-3. asadadadadsada
+   cd Portafolio-y-Newsletter
+   ```
+
 © 2024 Kevin. Todos los derechos reservados. """
  
