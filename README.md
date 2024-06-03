@@ -46,6 +46,7 @@ Bienvenido a mi portafolio personal. Este proyecto muestra algunos de los trabaj
    ```bash
    cd Portafolio-y-Newsletter
    ```
+3. Abre el archivo index.html
 
 ```© 2024 Kevin. Todos los derechos reservados. ```
  
