@@ -10,7 +10,7 @@ Bienvenido a mi portafolio personal. Este proyecto muestra algunos de los trabaj
 ## Tecnologías Utilizadas
 
 - **HTML5**: Estructura del contenido web.
-- **CSS3**: Estilización y diseño de la interfaz.
+- **CSS**: Estilización y diseño de la interfaz.
 
 ## Proyectos Incluidos
 
